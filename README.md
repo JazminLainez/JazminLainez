@@ -5,4 +5,4 @@
 
 ### 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JazminLainez&show_icons=true&theme=tokyonight)
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=JazminLainez&theme=tokyonight&locale=es)
