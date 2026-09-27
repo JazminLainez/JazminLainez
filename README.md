@@ -3,6 +3,6 @@
 <img src="https://i.giphy.com/L9EUxgj4PCwU6pZXsS.gif" width="200" alt="Gatito saludando" />
 
 
-### 📊 Estadísticas
+### 📊 Mi actividad
 
-![Racha de contribuciones](https://streak-stats.demolab.com/?user=JazminLainez&theme=tokyonight&locale=es)
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JazminLainez&theme=tokyo-night&hide_border=true&area=true)
